@@ -33,7 +33,7 @@ Java의 정석 1
 
 ### 1.4 JVM(Java Virtual Machine)
 
-![JVM](./images/Ch01-1.4 JVM.png)
+![JVM](https://github.com/jeuskim/Study/assets/165736497/ddc67d71-24ed-4b20-87a3-33928deed60f)
 
 
 
