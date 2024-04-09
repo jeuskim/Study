@@ -31,10 +31,10 @@ Java의 정석 1
 
 ### 3.1 Hello.java
 
-- Java 애플리케이션은 main메서드의 호출로 시작해서 main메서드의 첫 문장부터 마지막 문장까지 수행을 마치면 종료된다.
+- Java 애플리케이션은 main메서드의 호출로 시작해서 main메서드의 첫 문장부터 마지막 문장까지 수행을 마치면 종료된다.  
   따라서 하나의 Java 애플리케이션에는 main메서드를 포함한 클래스가 반드시 하나는 있어야 한다.
-- public class가 있는 경우, 소스파일의 이름은 반드시 public class의 이름과 일치해야 한다.
-  만약 public class가 없는 경우, 소스파일의 이름은 아무 class의 이름으로 해도 무관하다.
+- public class가 있는 경우, 소스파일의 이름은 반드시 public class의 이름과 일치해야 한다.  
+  만약 public class가 없는 경우, 소스파일의 이름은 아무 class의 이름으로 해도 무관하다.  
   이 때 하나의 소스파일에 둘 이상의 public class가 존재하면 안된다.
 
 
